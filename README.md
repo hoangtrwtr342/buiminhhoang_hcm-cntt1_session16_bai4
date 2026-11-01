@@ -14,7 +14,7 @@
   
   5. Tránh đứt đoạn khi gập máy: Trong Windows Power Options, chỉnh When I close the lid thành Do nothing khi cắm sạc. Tận dụng cơ chế Resumable Upload sẵn có của Cloud để tự nối tiếp quá trình tải khi có mạng trở lại.
 
-2. Báo cáo dung lượng & Chứng minh hiệu quả
+## 2. Báo cáo dung lượng & Chứng minh hiệu quả
 Thông số hệ thống:
   
   Dung lượng SSD Laptop: 256 GB (khả dụng thực tế khoảng 130 GB sau khi trừ hệ điều hành và phần mềm).
